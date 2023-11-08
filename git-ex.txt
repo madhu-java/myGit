@@ -1,0 +1,14 @@
+This is my git vlog...
+git --vesrsion
+git congig
+git config --global --list
+git config --global user.name="abc"
+git config --global user.email="cvc@gmail.com"
+git log
+git tag
+git init
+git init -b main
+git add file-name
+git rm --cached filename--remove from staging
+git commit -m "commit message"
+git commit -a -m "commit message"--to stage and commit 
