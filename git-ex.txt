@@ -12,3 +12,8 @@ git add file-name
 git rm --cached filename--remove from staging
 git commit -m "commit message"
 git commit -a -m "commit message"--to stage and commit 
+git diff
+git add . ---to add all the untracked and modified files to the staging
+:Q to come out
+
+
