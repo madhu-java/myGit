@@ -70,4 +70,5 @@ git rebase branchname---> same like merge but it makes the clean tree don't shoe
 change 1
 change2
 
-git rebase
+git rebase my database
+
