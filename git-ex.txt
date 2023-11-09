@@ -24,6 +24,17 @@ git init -b main-->
 
 -->connecting remote and local repos
 git remote add origin sshlink
-git pusg-u origin main
+git push-u origin main
+
+-->tags
+to create a tag
+git tag -a tag-name -m "some message"
+
+to dispaly all the tga we have creted 
+git tag
+to see all the tag ingo
+git show tag-name
+to push our tag to remote repo
+git push origin tag-name
 
 
