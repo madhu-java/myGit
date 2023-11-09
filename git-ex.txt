@@ -71,4 +71,10 @@ change 1
 
 change2 madhu's database
 
+git merge feature3
+merge conglict-->decide which data you want and remove the others
 
+to get the changes from server to clinet
+git pull origin main
+
+git mysql database
