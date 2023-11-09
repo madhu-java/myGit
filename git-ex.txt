@@ -53,7 +53,21 @@ git branch --all ---> lists out all the local and remote branches as well
 to switch a branch
 git switch branchname
 
+to go to previous branch--  git switch -
 
+to delata a branch-- git branch -d branch name or git branch -delete branchname
 
+to merge
+
+switch to main branch then merge the new branch
+git merge branchname
+--> always do git pull origin main before merge
+
+git log --graph
+
+git rebase branchname---> same like merge but it makes the clean tree don't shoe branches on graph
+
+change 1
+change2
 
 git rebase
