@@ -15,5 +15,15 @@ git commit -a -m "commit message"--to stage and commit
 git diff
 git add . ---to add all the untracked and modified files to the staging
 :Q to come out
+git rm --cached filename-->to delete a file from localrepo after commiting
+-->To generate ssh
+ssh-keygen -o
+cd .sshcat id_rsa.pub -->spoy and paste the key in github ssh key
+
+git init -b main-->
+
+-->connecting remote and local repos
+git remote add origin sshlink
+git pusg-u origin main
 
 
