@@ -29,12 +29,29 @@ git push-u origin main
 -->tags
 to create a tag
 git tag -a tag-name -m "some message"
-
 to dispaly all the tga we have creted 
 git tag
 to see all the tag ingo
 git show tag-name
 to push our tag to remote repo
 git push origin tag-name
+
+git log-->prints all the commits with all the details
+git log --pretty=oneline-->printall commit number and commit message 
+
+
+git clone https ot ssh link
+
+-->branching
+
+to create a branch
+git checkout -b branchname
+
+to list the branches
+git branch
+to switch a branch
+git switch branchname
+
+
 
 
