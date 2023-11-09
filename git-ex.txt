@@ -45,10 +45,11 @@ git clone https ot ssh link
 -->branching
 
 to create a branch
-git checkout -b branchname
+git checkout -b branchname or git switch -c branchname
 
 to list the branches
 git branch
+git branch --all ---> lists out all the local and remote branches as well
 to switch a branch
 git switch branchname
 
