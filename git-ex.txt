@@ -77,4 +77,12 @@ merge conglict-->decide which data you want and remove the others
 to get the changes from server to clinet
 git pull origin main
 
+git time travel--->git checkout commitid
+
+git stash
+git stash list
+sit stash apply
+
+git fork
+
 
